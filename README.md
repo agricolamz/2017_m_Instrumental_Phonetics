@@ -1,1 +1,1 @@
-[Mag R course](https://agricolamz.github.io/2017-MAG_R_course/)
+[Instrumental Phonetics](https://agricolamz.github.io/m_Instrumental_Phonetics_2016-2017/)
