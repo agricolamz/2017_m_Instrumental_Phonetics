@@ -1,0 +1,15 @@
+---
+title: "Introduction to Acoustic Phonetics"
+date: 20.05.2017
+font-family: 'Brill'
+transition: none
+output:
+  slidy_presentation:
+    df_print: paged
+    footer: "Presentation link: https://goo.gl/gNqTPM"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

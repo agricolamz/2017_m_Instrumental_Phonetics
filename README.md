@@ -1,0 +1,1 @@
+[Mag R course](https://agricolamz.github.io/2017-MAG_R_course/)
