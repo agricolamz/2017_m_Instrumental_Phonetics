@@ -1,0 +1,89 @@
+---
+title: "Linguistic data: quantitative analysis and visualisation"
+---
+
+### R and RStudio installation
+[R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/products/rstudio/download/#download), [RStudio online](https://www.rollapp.com/app/rstudio), [Connecting RStudio и GitHub](http://happygitwithr.com/rstudio-git-github.html), [R-bloggers](https://www.r-bloggers.com/)
+
+* (16.01.2017)	[Lec 1: Course description](https://agricolamz.github.io/2017-MAG_R_course/Lec_1_Course_description.html)
+* [about projects](https://github.com/agricolamz/2017-MAG_R_course/raw/master/projects.pdf)
+* [assignment grades](https://docs.google.com/spreadsheets/d/1Ip6gEzzLsKgZOFEVAzSlgEOTeVdBXlDv_26ifZ_h2yY/edit#gid=0)
+
+### 1. Introduction to R. Types of data. Dataframe. User's functions
+* (16.01.2017)	[Lab 1: Base R objects. Simple plots. Simple functions. Base R functions code. User’s functions. Loops. Functions in functions. Default arguments. Optional arguments.](https://agricolamz.github.io/2017-MAG_R_course/Lab_1.html)
+* (02.02.2017)	[Dataframes. Read and write data. Manipulation with data (R base vs. dplyr)](https://agricolamz.github.io/2017-MAG_R_course/Lec_2_Data_manipulation_and_visualization.html)
+
+* [HW-1. Deadline: 16.02.2017](https://docs.google.com/forms/d/e/1FAIpQLSduc-FdDJHD171GhxQlVYlHfdvDXVpGh9b1rXpw0WcdE61ZFQ/viewform)
+
+### 2. Visualization.
+
+*	(09.02.2017) [Base R vs. ggplot2: 2 variables, 3 variables, many variables](https://agricolamz.github.io/2017-MAG_R_course/Lec_2_Data_manipulation_and_visualization.html)
+* (09.02.2017) [Lab 2: Data manipulation and visualization](https://agricolamz.github.io/2017-MAG_R_course/Lab_2.html)
+* (16.02.2017) RMarkdown
+* [HW-2. Deadline: 12.03.2017](https://docs.google.com/forms/d/e/1FAIpQLSc2Z6snhSEZRVzHysYsUdKFkl4flE63AY4TFd-UrkmstV8s4g/viewform)
+
+### 3. 4. Descriptive statistics A. Confidence intervals. T-tests. P-values. Normality tests
+* (16.02.2017) [Lecture: Central limit theorem. Confidence intervals](https://agricolamz.github.io/2017-MAG_R_course/Lec_3_Descriptive_statistics._Measures_of_central_tendency._Confidence_intervals.html)
+* (02.03.2017) Lab 3 and 4: Descriptive statistics, Confidence intervals, T-tests. P-value. Boxplot, errorbar.
+    * [Assignment](https://goo.gl/forms/6e4ncZf6QejGRjyW2)
+    * Files from class: [Lab 3 and 4](https://agricolamz.github.io/2017-MAG_R_course/Lab_3-4.html)
+
+### 5. More about t-test: one-tailed, paired, test power, Coehn's d. Mann–Whitney U-test.
+
+* (09.03.2017) lecture
+* (09.03.2017) [Lab 5](https://agricolamz.github.io/2017-MAG_R_course/Lab_5.html), [Assignment](https://goo.gl/forms/PUIzhEsFWuqVCksj1)
+
+### 6. χ². Exact Fisher test. Correlations																									
+* (16.03.2017) lecture
+* (16.03.2017) [Lab 6](https://agricolamz.github.io/2017-MAG_R_course/Lab_6.html), [Assignment](https://goo.gl/forms/mDNkVbNj29aLRCVf2)
+
+### 7. Linear regressions															
+* (23.03.2017) lecture
+* (23.03.2017) [Lab 7](https://agricolamz.github.io/2017-MAG_R_course/Lab_7.html), [Assignment](https://goo.gl/forms/b2zXpiU6BGYo4zZe2)
+
+																									
+### 8. ANOVA, dummy variables, Multiple linear regression																		
+* (13.04.2017) [lecture 8](https://agricolamz.github.io/2017-MAG_R_course/Lec_8_ANOVA_Dummy_variables_Multiple_linear_regression.html) 
+* (13.04.2017) [Lab 8](https://agricolamz.github.io/2017-MAG_R_course/Lab_8.html), [Assignment](https://goo.gl/bCkuRV)
+
+
+### 9. Binary logistic regressions
+
+* (20.04.2017) [lecture 9](https://agricolamz.github.io/2017-MAG_R_course/Lec_9_Logistic_regression.html) 
+* (20.04.2017) [Lab 9](https://agricolamz.github.io/2017-MAG_R_course/Lab_9.html), [Assignment](https://goo.gl/2FoSQ9)
+
+
+### 10. Linear Mixed-effects models																						
+* (27.04.2017) lecture
+* (27.04.2017) [Lab 10](https://agricolamz.github.io/2017-MAG_R_course/Lab_10.html), [Assignment](https://goo.gl/forms/uY2wGxkZrAauIgzG2)
+
+### 11. Decision trees. Decision forests															
+* (..2017) lecture
+* (..2017) Lab 11: Confidence intervals again. Bootstraping.
+* (..2017) Lab 12: Decision trees. Decision forests.
+
+### 12. Clusterization
+
+* (..2017) lecture
+* (..2017) Lab 13: Different types of distance matrices. K-means
+* (..2017) Lab 14: Hierarchical clusterization. DBSCAN.
+
+### 13. MDS, PCA, CA, MCA
+
+* (..2017) lecture
+* (..2017) Lab 15:
+* (..2017) Lab 16:
+
+### Textbooks
+
+* Levshina, Natalia. 2015. How to do Linguistics with R. [Info](https://benjamins.com/#catalog/books/z.195/main) [Companion web site](https://benjamins.com/sites/z.195/). The e-book is available in HSE library. 
+* Gries, Stefan Th. 2013. Statistics for Linguistics with R: A Practical Introduction. 2nd ed. Mouton de Gruyter. [Info](https://www.degruyter.com/view/product/203826) 
+* Gries, Stefan Th. 2009 (2nd ed.: 2017). Quantitative Corpus Linguistics with R. Routledge. [Info](https://www.routledge.com/Quantitative-Corpus-Linguistics-with-R-A-Practical-Introduction/Gries/p/book/9780415962704) [2nd Edition](https://www.routledge.com/Quantitative-Corpus-Linguistics-with-R-A-Practical-Introduction-2nd-Edition/Gries/p/book/9781138816275) [Companion page](http://www.linguistics.ucsb.edu/faculty/stgries/research/qclwr/qclwr.html) 
+* Baayen, Harald. 2008 (2nd ed.: 2014). Analyzing Linguistic Data: A Practical Introduction to Statistics using R. Cambridge University Press. [Info](http://www.cambridge.org/gb/academic/subjects/languages-linguistics/grammar-and-syntax/analyzing-linguistic-data-practical-introduction-statistics-using-r?format=AR) [Google books](https://books.google.ru/books?id=UvWkIg5E4foC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) 
+
+see also our [Course Program](https://www.hse.ru/data/2016/09/19/1117082144/program-1549532002-kSLnTng0SN.pdf)
+
+### R Markdown
+
+* [R Markdown cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
+* [Online Introduction to R Markdown](http://rmarkdown.rstudio.com/lesson-1.html)
