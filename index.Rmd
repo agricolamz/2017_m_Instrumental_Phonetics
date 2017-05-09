@@ -5,7 +5,7 @@ title: "Instrumental Phonetics (2016-2017)"
 [Here](https://www.hse.ru/data/2016/09/19/1117088299/program-1542588518-dLqdKf3_0G.pdf) is a link to a course programme.
 
 ### 1. Introduction to Acoustic Phonetics
-* (20.05.2017)	[Lec 1](https://agricolamz.github.io/m_Instrumental_Phonetics_2016-2017/Lec_1_Introduction_to_Acoustic_Phonetics.html)
+* (20.05.2017)	[Lec 1](https://goo.gl/yve52K)
 * (20.05.2017)	[Lab 1]()
 
 ### 2. Vowels. Formnants
