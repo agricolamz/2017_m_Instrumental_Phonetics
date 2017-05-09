@@ -13,3 +13,18 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+### 0. Structure of the course
+
+- [Here](https://agricolamz.github.io/m_Instrumental_Phonetics_2016-2017/) is a course website.
+- [Here](https://www.hse.ru/data/2016/09/19/1117088299/program-1542588518-dLqdKf3_0G.pdf) is a course program.
+- Theoretical: read 2. chapter from (Gussenhoven Jacobs 2011)
+- Theoretical: IPA symbols
+- R: import .csv files
+- R: `dplyr`, `ggplot`
+
+### 1. Phonetics? What is it about?
+
+
+
+### 2. Sound? Little introduction
+
