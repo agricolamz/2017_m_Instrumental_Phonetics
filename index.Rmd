@@ -6,7 +6,7 @@ title: "Instrumental Phonetics (2016-2017)"
 
 ### 1. Introduction to Acoustic Phonetics
 * (20.05.2017)	[Lec 1](https://goo.gl/yve52K)
-* (20.05.2017)	[Lab 1]()
+* (20.05.2017)	Lab 1: [Praat](http://www.fon.hum.uva.nl/praat/). Symbols for [consonats](http://www.fon.hum.uva.nl/praat/manual/Phonetic_symbols__consonants_1.png), [vowels](http://www.fon.hum.uva.nl/praat/manual/Phonetic_symbols__vowels_1.png) and [diacritics](http://www.fon.hum.uva.nl/praat/manual/Phonetic_symbols__diacritics.html)
 
 ### 2. Vowels. Formnants
 * (27.05.2017)	[Lec 2]()
