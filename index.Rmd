@@ -8,7 +8,7 @@ title: "Instrumental Phonetics (2016-2017)"
 * (20.05.2017)	[Lec 1](https://goo.gl/oqFKlr)
 * (20.05.2017)	Lab 1: [Praat](http://www.fon.hum.uva.nl/praat/). Symbols for [consonats](http://www.fon.hum.uva.nl/praat/manual/Phonetic_symbols__consonants_1.png), [vowels](http://www.fon.hum.uva.nl/praat/manual/Phonetic_symbols__vowels_1.png) and [diacritics](http://www.fon.hum.uva.nl/praat/manual/Phonetic_symbols__diacritics.html)
 
-### 2. Vowels. Formnants
+### 2. Vowels. Formants
 * (27.05.2017)	Lec 2
 * (27.05.2017)	[Lab 2](https://goo.gl/rVcg6X), [sound](https://github.com/agricolamz/m_Instrumental_Phonetics_2016-2017/raw/master/materials/vowels.wav), [TextGrid](https://raw.githubusercontent.com/agricolamz/m_Instrumental_Phonetics_2016-2017/master/materials/vowels.TextGrid)
 * [Lennes M. (2002) Calculate segment durations](http://www.helsinki.fi/%7Elennes/praat-scripts/public/calculate_segment_durations.praat)
