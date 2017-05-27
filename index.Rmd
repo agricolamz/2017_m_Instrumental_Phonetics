@@ -1,0 +1,47 @@
+---
+title: "Instrumental Phonetics (2016-2017)"
+---
+
+[Here](https://www.hse.ru/data/2016/09/19/1117088299/program-1542588518-dLqdKf3_0G.pdf) is a link to a course programme.
+
+### 1. Introduction to Acoustic Phonetics
+* (20.05.2017)	[Lec 1](https://goo.gl/yve52K)
+* (20.05.2017)	Lab 1: [Praat](http://www.fon.hum.uva.nl/praat/). Symbols for [consonats](http://www.fon.hum.uva.nl/praat/manual/Phonetic_symbols__consonants_1.png), [vowels](http://www.fon.hum.uva.nl/praat/manual/Phonetic_symbols__vowels_1.png) and [diacritics](http://www.fon.hum.uva.nl/praat/manual/Phonetic_symbols__diacritics.html)
+
+### 2. Vowels. Formnants
+* (27.05.2017)	Lec 2
+* (27.05.2017)	[Lab 2](), [sound_1](https://github.com/agricolamz/m_Instrumental_Phonetics_2016-2017/raw/master/materials/vowels.wav), [TextGrid_1](https://raw.githubusercontent.com/agricolamz/m_Instrumental_Phonetics_2016-2017/master/materials/vowels.TextGrid)
+* [Lennes M. (2002) Calculate segment durations](http://www.helsinki.fi/%7Elennes/praat-scripts/public/calculate_segment_durations.praat)
+* [Lennes M. (2002) Draw formant chart](http://www.helsinki.fi/~lennes/praat-scripts/public/draw_formant_chart.praat)
+
+### 3. Obstruents. Coarticulation effects 
+* (03.06.2017)	[Lec 3:]()
+* (03.06.2017)	[Lab 3:]()
+
+### 4. Sonorants
+* (10.06.2017)	[Lec 4:]()
+* (10.06.2017)	[Lab 4:]()
+
+### 5. Stress and Tones
+* (17.06.2017)	[Lec 5:]()
+* (17.06.2017)	[Lec 5:]()
+
+* (..06.2017) Final Exam
+  - probleme solving
+  - Praat scripting
+  
+Refference:
+
+* Ashby, M., J. Maidment (2005). Introducing phonetic science. Cambridge University Press.
+* Bickford, A. C., R. Floyd (2006). Articulatory Phonetics: Tools for Analyzing the World’s Languages SIL International. 
+* Boersma,  P.,  D.  Weenink  (2013). Praat:    doing  phonetics  by  computer  (version 5.3.51)[computer program]. retrieved 2 june 2013.
+* Fant, G. (1971). Acoustic theory of speech production:  with calculations based on X-ray studies of Russian articulations, Volume 2.  Walter de Gruyter.
+* Fuchs, S., M. Toda„ M. Żygis (2010). Turbulent sounds:  an interdisciplinary guide, Volume 21.  Walter de Gruyter.
+* Fulop, S. (2011). Speech spectrum analysis.  Springer Science & Business Media.
+* Gick, B., I. Wilson D. Derrick (2012). Articulatory phonetics. John Wiley & Sons.
+* Gordon, M., P. Ladefoged (2001).  Phonation types: a cross-linguistic overview. Journal of Phonetics 29 (4), 383–406.
+* Harrington, J. (2010). Phonetic analysis of speech corpora. John Wiley & Sons.
+* Johnson, K. (2011). Acoustic and auditory phonetics. John Wiley & Sons.
+* Ladefoged, P., S. F. Disner (2012). Vowels and consonants. John Wiley & Sons.
+Ladefoged, P., I. Maddieson. (1996). The Sounds of the World’s Languages Oxford, Cambridge: Blackwell Publishers.
+* Rorabaugh, C. B. (2010). Notes on Digital Signal Processing: Practical Recipes for Design, Analysis and Implementation Prentice Hall
