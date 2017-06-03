@@ -10,13 +10,18 @@ title: "Instrumental Phonetics (2016-2017)"
 
 ### 2. Vowels. Formants
 * (27.05.2017)	[Lec 2](https://goo.gl/c3FAZw)
-* (27.05.2017)	[Lab 2](https://goo.gl/rVcg6X), [sound](https://goo.gl/IzpUyo), [TextGrid](https://goo.gl/4tGthZ)
+* (27.05.2017)	[Lab 2](https://goo.gl/rVcg6X)
+* [sound](https://goo.gl/IzpUyo)
+* [TextGrid](https://goo.gl/4tGthZ)
+* [extracted formant values](https://goo.gl/zPm7Od)
 * [Lennes M. (2002) Calculate segment durations](http://www.helsinki.fi/%7Elennes/praat-scripts/public/calculate_segment_durations.praat)
 * [Kawahara (??) Extract formant chart](https://goo.gl/MUBpPw)
+* [R script for formant visualisation](https://goo.gl/8weIeL)
 
 ### 3. Sonorants
 * (03.06.2017)	[Lec 4:]()
 * (03.06.2017)	[Lab 4:]()
+* [Andi nasals](https://goo.gl/5D9DNR)
 
 ### 4. Obstruents. Coarticulation effects 
 * (10.06.2017)	[Lec 3:]()
