@@ -23,17 +23,18 @@ title: "Instrumental Phonetics (2016-2017)"
 * (03.06.2017)	[Lab 3:](https://goo.gl/ATq5qU)
 * [Andi nasals](https://goo.gl/5D9DNR)
 
-### 4. Obstruents. Coarticulation effects 
-* (10.06.2017)	[Lec 4:]()
-* (10.06.2017)	[Lab 4:]()
+### 4. Obstruents
+* (10.06.2017)	[Lec 4:](https://goo.gl/T2dYdc)
+* (10.06.2017)	[Lab 4:](https://goo.gl/3Nw0x1)
+* [fricatives](https://goo.gl/hvdviI)
+* [fricatives' TextGrid](https://goo.gl/pza6tx)
+* [fricatives' R script](https://goo.gl/SdGlZr)
 
-### 5. Stress and Tones
-* (17.06.2017)	[Lec 5:]()
-* (17.06.2017)	[Lec 5:]()
+### 5. Problems solving
+* (17.06.2017)	[Lab 5:]()
 
-* (..06.2017) Final Exam
-  - probleme solving
-  - Praat scripting
+### 6. Final Exam
+* (24.06.2017) Tasks
   
 Refference:
 
