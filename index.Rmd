@@ -19,22 +19,23 @@ title: "Instrumental Phonetics (2016-2017)"
 * [R script for formant visualisation](https://goo.gl/8weIeL)
 
 ### 3. Sonorants
-* (03.06.2017)	[Lec 3:](https://goo.gl/uuaAcl)
-* (03.06.2017)	[Lab 3:](https://goo.gl/ATq5qU)
+* (03.06.2017)	[Lec 3](https://goo.gl/uuaAcl)
+* (03.06.2017)	[Lab 3](https://goo.gl/ATq5qU)
 * [Andi nasals](https://goo.gl/5D9DNR)
 
 ### 4. Obstruents
-* (10.06.2017)	[Lec 4:](https://goo.gl/T2dYdc)
-* (10.06.2017)	[Lab 4:](https://goo.gl/3Nw0x1)
+* (10.06.2017)	[Lec 4](https://goo.gl/T2dYdc)
+* (10.06.2017)	[Lab 4](https://goo.gl/3Nw0x1)
 * [fricatives](https://goo.gl/hvdviI)
 * [fricatives' TextGrid](https://goo.gl/pza6tx)
+* Extracted data: [ɬ](https://goo.gl/wo3QZN), [s](https://goo.gl/eNZQKa), [sh](https://goo.gl/NgeVSX), [x](https://goo.gl/oDYvbJ), [χ](https://goo.gl/vZQfZG) 
 * [fricatives' R script](https://goo.gl/SdGlZr)
 
 ### 5. Problems solving
-* (17.06.2017)	[Lab 5:]()
+* (17.06.2017)	[Lab 5]()
 
 ### 6. Final Exam
-* (24.06.2017) Tasks
+* (24.06.2017) [Tasks]()
   
 Refference:
 
