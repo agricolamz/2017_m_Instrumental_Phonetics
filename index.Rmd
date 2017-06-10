@@ -26,10 +26,10 @@ title: "Instrumental Phonetics (2016-2017)"
 ### 4. Obstruents
 * (10.06.2017)	[Lec 4](https://goo.gl/T2dYdc)
 * (10.06.2017)	[Lab 4](https://goo.gl/3Nw0x1)
-* [fricatives](https://goo.gl/hvdviI)
-* [fricatives' TextGrid](https://goo.gl/pza6tx)
-* Extracted data: [ɬ](https://goo.gl/wo3QZN), [s](https://goo.gl/eNZQKa), [sh](https://goo.gl/NgeVSX), [x](https://goo.gl/oDYvbJ), [χ](https://goo.gl/vZQfZG) 
+* [fricatives](https://goo.gl/hvdviI), [fricatives' TextGrid](https://goo.gl/pza6tx), Extracted data: [ɬ](https://goo.gl/wo3QZN), [s](https://goo.gl/eNZQKa), [sh](https://goo.gl/NgeVSX), [x](https://goo.gl/oDYvbJ), [χ](https://goo.gl/vZQfZG) 
 * [fricatives' R script](https://goo.gl/SdGlZr)
+* [plosives](https://goo.gl/PZA8WY), [plosives' TextGrid](https://goo.gl/1ZFtJt), Extracted data: [plosives' duration](https://goo.gl/NExChs)
+* [plosives' R script](https://goo.gl/g3oPfN)
 
 ### 5. Problems solving
 * (17.06.2017)	[Lab 5]()

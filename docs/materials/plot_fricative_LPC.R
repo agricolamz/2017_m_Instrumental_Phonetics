@@ -17,4 +17,8 @@ ggplot(data = result_df,
        aes(x = freq.Hz., 
            y = pow.dB.Hz., 
            color = label))+
-  geom_line(size = 2)
+  geom_line(size = 2)+
+  theme_bw()+
+  labs(title = "Smoothed LPC for different fricatives",
+       x = "frequency (Hz)",
+       y = "power (Db/Hz)")
