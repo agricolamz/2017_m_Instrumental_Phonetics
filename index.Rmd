@@ -31,8 +31,8 @@ title: "Instrumental Phonetics (2016-2017)"
 * [plosives](https://goo.gl/PZA8WY), [plosives' TextGrid](https://goo.gl/1ZFtJt), Extracted data: [plosives' duration](https://goo.gl/NExChs)
 * [plosives' R script](https://goo.gl/g3oPfN)
 
-### 5. Problems solving
-* (17.06.2017)	[Lab 5]()
+### 5. Guess the word 
+* (17.06.2017)	[Lab 5](https://goo.gl/forms/QEvqvO4Pjd5AxPnj2)
 
 ### 6. Final Exam
 * (24.06.2017) [Tasks]()

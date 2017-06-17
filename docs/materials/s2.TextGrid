@@ -1,0 +1,30 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 39.626666666666665 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "labels" 
+        xmin = 0 
+        xmax = 39.626666666666665 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.890666666666666 
+            text = "rek'ːu pine" 
+        intervals [2]:
+            xmin = 8.890666666666666 
+            xmax = 19.290666666666667 
+            text = "rek'ul key" 
+        intervals [3]:
+            xmin = 19.290666666666667 
+            xmax = 29.482666666666667 
+            text = "rekun thread" 
+        intervals [4]:
+            xmin = 29.482666666666667 
+            xmax = 39.626666666666665 
+            text = "tʃakːu yellow" 
